@@ -1,0 +1,499 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The most admirable historie of that most renowned Christian worthy Arthvr, King of the Britaines</title>
+            <author>Parker, Martin, fl. 1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09683</idno>
+            <idno type="STC">Wing P441E</idno>
+            <idno type="STC">ESTC R181453</idno>
+            <idno type="EEBO-CITATION">61297119</idno>
+            <idno type="OCLC">ocm 61297119</idno>
+            <idno type="VID">180645</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180645)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2838:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The most admirable historie of that most renowned Christian worthy Arthvr, King of the Britaines</title>
+                  <author>Parker, Martin, fl. 1674.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coles,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint taken from colophron.</note>
+                  <note>Text in black letter.</note>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Arthur, --  King --  Early works to 1800.</term>
+               <term>Chapbooks, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180645:1" rendition="simple:additions"/>
+            <p>The moſt admirable HISTORIE OF That moſt Renowned Chriſtian Worthy ARTHVR King of the <hi>Britaines.</hi>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>knight in armor on a horse</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:180645:2" rendition="simple:additions"/>
+            <pb facs="tcp:180645:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:180645:3"/>
+            <pb facs="tcp:180645:3" rendition="simple:additions"/>
+            <head>To <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe noble ſpirits, who after antiquity joyned with truth.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Orthy Country men or women, by what name, age, title or quality ſoever you are distinguiſhed, I preſent you here with a piece of that huge volume of antiquity; wherewith our anceſtors were (for the moſt part contentedly) furniſhed. Love to the party oftentimes cauſeth partiality in publiſhing of praiſe-worthy deeds; this was the notion that the Zelots (of that age ſo far ſuper<g ref="char:EOLhyphen"/>abounded in their hiſtorical relations of this (indeed) match<g ref="char:EOLhyphen"/>leſs mirror of Monarcks, and example of heroical Actors; inſomuch, that propoſing improbabilities they have (in ſome ſort) drowned realities: to be brief (where brevity is aim<g ref="char:EOLhyphen"/>ed at) <hi>Geofry</hi> of <hi>Monmouth</hi> (and other Clarks of that time) have ſo fabulouſly written of King <hi>Arthur</hi> (and his Knights of the Round Table) that divers by theſe Hyper<g ref="char:EOLhyphen"/>bolical diſcourſes, have been puſſelled with ambiguity whe<g ref="char:EOLhyphen"/>ther any ſuch ſtory were eſſential or no, which to doubt were no leſs then to queſtion, whether <hi>Wil.</hi> (the Son of <hi>Robert</hi>) Duke of <hi>Normandy</hi> was ever King of <hi>England.</hi> King <hi>Arthur</hi> is (and hath been ever ſince his life and death) ac<g ref="char:EOLhyphen"/>counted for one of the <hi>3.</hi> Chriſtian Worthies, whereof not only our own Countrymen, but alſo others of forraign Na<g ref="char:EOLhyphen"/>tions have (interchangably) written: This have the French in as glorious a ſtile, as they have done of their own <hi>Charls Maine,</hi> or <hi>Godfrey</hi> of <hi>Bullaine;</hi> therefore to explode one is to hiſſe all the reſt from the ſtage of Christianity; which I being confident you wil not refer to what follows truly col<g ref="char:EOLhyphen"/>lected by a lover of truth,</p>
+            <closer>
+               <signed>VVith antiquity, <hi>M.P.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:180645:4"/>
+            <head>The Contents of the ſeverall Chapters in this following Hiſtory.</head>
+            <list>
+               <item>Chap. 1. HOw King <hi>Vter</hi> (ſirnamed <hi>Pendragon</hi>) ſlew in batel <hi>Coiſen</hi> the proud Duke of <hi>Cornwall</hi> (that rebelled againſt him) and took his widow faire <hi>Igren</hi> to wife, of whom he begot our renowned <hi>Arthur.</hi>
+               </item>
+               <item>Chap. 2. How the learned <hi>Merlin</hi> (who flouri<g ref="char:EOLhyphen"/>ſhed in thoſe daies) had the tuition of the young Prince <hi>Arthur</hi> committed unto him, and how he tutured him.</item>
+               <item>Chap. 3. The death of King <hi>
+                     <g ref="char:V">Ʋ</g>ter Pendragon,</hi> and how Prince <hi>Arthur</hi> at the age of 18. years was crowned King of <hi>Britain</hi> by common conſent.</item>
+               <item>Chap. 4 Of the great triumphs, tilts, and turna<g ref="char:EOLhyphen"/>ments uſed in his Court at the beginning of his reign, and the wonderfull reſort of gallant warriers.</item>
+               <item>Chap. 5. Of his war with the Saxons, and how he victoriouſly overcame them in 12. ſeveral ſet battels to the uter ſubduing of their pride, and preventing the progreſs of their conqueſts, during his own and his next ſucceſſors reign.</item>
+               <item>Chap. 6. How King <hi>Arthur</hi> croſt the Seas, and ſubdued <hi>Denmark</hi> and <hi>Norway</hi> unto him, in which voyage many admirable occur<g ref="char:EOLhyphen"/>ances hapned well worth obſervation.</item>
+               <item>Chap 7. How King <hi>Arthur</hi> inſtituted the order of the Round Table, and graced it with a 150. Knights, and the reaſon of its inſtitution to maintain concord with the names of the firſt Knights of the Order; ſo in all none under the degree of Baron.</item>
+               <item>Chap 8. How King <hi>Arthur</hi> fought againſt the Picks, Scots, Iriſh, and Saxons in one bat<g ref="char:EOLhyphen"/>tell, and ſlew <hi>Colgrim</hi> King of the Saxons, <hi>Bladuſt</hi> his Brother, and <hi>Childrick</hi> a Prince of <hi>Germany,</hi> who came to their aide, and how he forced <hi>Guillamore</hi> King of <hi>Ireland</hi> to become tributary unto him.</item>
+               <item>Chap. 9. How King <hi>Arthur</hi> ſayled to ſubdue <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> which he performed with great honor, converting that People, and all the adja<g ref="char:EOLhyphen"/>cent Lands to Chriſtianity, and obedience to him and the Britiſh Monarchy.</item>
+               <item>Chap. 10. How King <hi>Arthur</hi> and his Knights of the Round Table, went into <hi>Paleſtine</hi> to fight againſt the Pagan Infidels, where they performed wonderfull feats of Arms, to the honor of Chriſt and Chriſtendome, converting or confounding all where ever they came, and how in the intrim the tray<g ref="char:EOLhyphen"/>tor <hi>Mordred</hi> nephew to King <hi>Arthur,</hi> whom (as Viceroy) he had left to govern the Land in his abſence, uſurped the Crown; which King <hi>Arthur</hi> hearing of, made haſt to come home; and in his march through <hi>France,</hi> encountred and overcame <hi>Lucius</hi> the Roman Conſul, and many Princes of great birth and valour.</item>
+               <item>Chap. 11. How King <hi>Arthur</hi> returned into <hi>England.</hi> He and <hi>Mordred</hi> were both ſlain in battel, and how noble King <hi>Arthur</hi> was buried at <hi>Glaſenbury</hi> in <hi>Summerſet-Shire.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:180645:4"/>
+            <head>The Hiſtory of <hi>Arthur</hi> King of <hi>Britain.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. How King <hi>Uter</hi> ſirnamed <hi>Pendragon</hi> ſlew in battell <hi>Coiſen</hi> the proud Duke of <hi>Cornwall</hi> (that rebelled againſt him) and took his widow (fair <hi>Igren</hi>) to wife, of whom he begat one renowned King <hi>Arthur.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He <hi>Britains</hi> having drawn their necks out of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> yoak, which they had borne almoſt <hi>500.</hi> years (from <hi>Julius Caeſar</hi> who conquered <hi>Caſibelan</hi> King of <hi>Britain</hi>) unto <hi>Gratian</hi> the laſt Roman governour here, who ended his life (and with him the dominati<g ref="char:EOLhyphen"/>on over this Iland) in <hi>Anno domini, 376.</hi> After this <hi>Vortiger</hi> of the Race Royall of <hi>Britain,</hi> did by murder and uſurpation poſſeſs the Diadem and jurisdiction over this noble Kingdome; but by his execrable life, and wicked government gowing hatefull in the Subjects eyes; he (fearing their juſtly inſtigated arming againſt him) ſends over into <hi>Germany</hi> to a Noble and warlike Nation, there called the Saxons (of Saxonie) to intreat their aid againſt his Natives (whom he called Subjects.) The Saxons under the conduct of their two Princely Leaders, <hi>Hengiſt</hi> and <hi>Horſus,</hi> having gotten an invitative entrance into this Land (which pleaſed them ſo well) they never leſt of procéeding their warlike policy, until they became in fine ſole Maſters of the Field; chaſing the Britaines (by degrees) into that monntanous County now called <hi>Wales</hi> (then <hi>Cambria</hi> which hapned about the year <hi>590</hi> under <hi>Careticus</hi>) the Britaines depoſing uſurping <hi>Votiger,</hi> put <hi>Vortimer</hi> his Son into his ſtead, who being poiſoned by <hi>Voitigers</hi> wife (who was <hi>Hergiſts</hi> Daughter) <hi>Vortiger</hi> reaſſumes the dominion, raigns with much vexation <hi>19.</hi> yeare, and then both he and <hi>Rowan</hi> (his Saxon wife) are burnt in their Caſtle by <hi>Aurelius Ambroſe</hi> of the linage of <hi>Con<g ref="char:EOLhyphen"/>ſtance,</hi> whom <hi>Vortiger</hi> (to get the Crown) had murthered: To this <hi>Aurelius Ambroſe</hi> (after <hi>32.</hi> years raigne) ſuccéeded <hi>Uter Pendragon</hi>
+                  <pb n="2" facs="tcp:180645:5"/>his Brother: (All the premiſes are as ſo many ſteps aſcendant to our ſtory,) this <hi>Uter</hi> was the Father of our renowned Chriſtian, wor<g ref="char:EOLhyphen"/>thy King <hi>Arthur</hi> the great of Great <hi>Britain,</hi> King and Emperor, (the noble ſubject of this Kingly and moſt <hi>Heroick</hi> Hiſtory) in the be<g ref="char:EOLhyphen"/>gining of King <hi>Uters</hi> reigne, the great Duke of <hi>Cornwall</hi> named <hi>Coiſen,</hi> prompted by ambition, avarice, and oppulency (three ſtrong cords to draw an evill diſpoſed man to deſtruction) raiſed an open Re<g ref="char:EOLhyphen"/>bellion againſt his Soveraign; in which lawleſs enterpriſe he was ſlain, and his Wife <hi>Igren</hi> (the mirror of Ladies for her beauty and ver<g ref="char:EOLhyphen"/>tue) became as lawfull priſe to King <hi>Uter;</hi> and although the death of <hi>Coiſen</hi> her late Husband might ſeeme to be ſome obſtract, yet the juſt<g ref="char:EOLhyphen"/>neſs of his death, the Kings cauſe and requeſt, overcomming all nice<g ref="char:EOLhyphen"/>ties to the increaſe of her joy and dignity, by the marriage of the King, ſhe became Queen of <hi>Britain:</hi> Of this gallant Lady (Queen <hi>Igren</hi>) our worthy <hi>Arthur</hi> was begotten and born, of whoſe matchleſs achiev<g ref="char:EOLhyphen"/>ments, for the honour of God and his Nation, and the terror of his e<g ref="char:EOLhyphen"/>nemies; this following epitomy or abſtract of his Hiſtory, gives a briefe and reall notion; this firſt Chapter ſerving as a proeme to what follows in order according to the Rule of Chronography or Hiſto<g ref="char:EOLhyphen"/>ry.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. 2. How the learned <hi>Merlin</hi> (who flouriſhed in thoſe daies) had the tui<g ref="char:EOLhyphen"/>tion of Prince <hi>Arthur</hi> committed unto him, and how he tutored him.</head>
+               <p>IN thoſe daies lived (and flouriſhed) that learned Clark <hi>Mrlin</hi> (by ſome accounted a Negromancer, by all a Prophet) of whoſe predictions &amp; Prophecies, ſo much talk is at this day (eſpecially among the <hi>Welch</hi>) who being in great favour with King <hi>Uter</hi> (as one by whoſe coun<g ref="char:EOLhyphen"/>ſell he was chiefly governed in all his actions) to him was committed the tuition and education of the young Prince, whoſe advice gave him his name <hi>Arthur,</hi> for ſome cauſe which he propounded. <hi>Merlin</hi> having gotten himſelfe to be intruſted with the government of this Child (of whom he Prophecied great and admirable deeds to be done) applied all his beſt of skill and induſtry, to continue and augment the good o<g ref="char:EOLhyphen"/>pinion which both the King and his People conceived of his Learning, Wiſedome, Gravity, and Fidelity to his Nation and his Soveraign; ſo that he nurtured the Prince in his minority in rudiments ſutable to
+<pb n="3" facs="tcp:180645:5"/>his age and procliuity; and as he grew and increaſed in years, ſo Art, Learning, and Vertue grew and increaſed in him; inſomuch, that in him appeared all that might promiſe a future greatneſſe and goodneſs? his mind and ſtudy above all things earthly, he dedicated to divine docu<g ref="char:EOLhyphen"/>ments, and next unto that his diſcourſes were all military, and his déeds anſwerable (exceeding the compaſs of his age) briefly what may be poſsibly expected in a Prince every way pointed out (or ſet apart) for God and his Countrey, honour (and ſervice) in our <hi>Arthur,</hi> was ſo conſpicuous, and viſible, that the whole world made him the ſeverall objects of both envy and hope: Thus much concerning his education under <hi>Merlin;</hi> in the next Chapter we will bring his to Father his Se<g ref="char:EOLhyphen"/>pulcher and him to his Throne.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. Of the death of King <hi>Vter Pendragon,</hi> and how Prince <hi>Arthur</hi> at the age of 18. years was crowned King of <hi>Britaine</hi> by common conſent.</head>
+               <p>KIng <hi>Uter</hi> having royally and lovingly both governed, and nouriſh<g ref="char:EOLhyphen"/>ed the ſickly eſtate of <hi>Britain,</hi> for the ſpace of <hi>28.</hi> years, in which time he had gotten many fortunate battels againſt the Saxons; then being a prevailing party here, at laſt to verifie our now common ſaying, too much familiarity breeds contempt) growing too much familiar with a Saxon Prince called <hi>Enerinus,</hi> he was by him (or his appointment) poiſoned at a great feaſt held in the Town of <hi>Salop;</hi> leaving his noble Son Prince <hi>Arthur</hi> the expectation of <hi>England,</hi> and the juſt revenger of his Fathers death, who immediately ſeconded his exit, with his own entrance upon the ſtage of majeſty; he was at that time but a ſtrippling in age, having paſt over but <hi>18.</hi> Winters, and as many Summers, but in Statute, Strength, Wiſdome, and Valour he paſſed thouſands that doubled his days. Such majeſty in his eyes, ſuch gravity in his geſt<g ref="char:EOLhyphen"/>ure and countenance, ſuch mediocrity and modeſty in his behaviour, and comportment joyned with ſubtle wiſedome, prudence and tem<g ref="char:EOLhyphen"/>perance in his words, that juſtice and fortitude in his actions were void of doubt or queſtion, ſo that his wiſe and cunning Tutor preſenting his Pupill ſo exquiſitly qualified, gained the laſting love of the Common<g ref="char:EOLhyphen"/>Wealth, for his ſo artificially yoaking grace and nature, to draw on the Chariot of <hi>Britains</hi> honour and happineſs; The ſame night that his Father was poiſoned, Prince <hi>Authur</hi> in a dream ſaw a viſion (in this manner) a huge ſpreading Vine, with great ripe cluſters ſhewed them<g ref="char:EOLhyphen"/>ſelves
+<pb n="4" facs="tcp:180645:6"/>red and ready to be cruſhed: From the root of this Vine iſſued a venomous Viper, which Viper was ſeconded with a great Snake; between the Viper and the Snake was a cruell Combate, the Snake for her advantage wound her ſelfe about the body of the Vine, and from thence parlied with her enemy, the Viper breathing out threatnings againſt the Snake inſtead of hurting her (with his vene<g ref="char:EOLhyphen"/>mous breath) poiſoned the grapes which a man in ſad ſable habit, com<g ref="char:EOLhyphen"/>ming after to taſt of died immediately: Soon after all this came in a luſty raging Lyon, that with his roaring ſcared away both the Viper and the Snake, and alſo awaked Prince <hi>Arthur.</hi> This dream and viſion <hi>Merlin</hi> diſected in theſe (or the like words) moſt noble branch of Britiſh Royalty, whom my prophetick ſpirit dares in the preſent tenſe (regarding of the future) call the ſole and abſolute Monarch of all Chriſtendome; this laſt night thy royall Father hath by late reconciled enemies (whom we are forbidden to truſt) been invited to a ſupper, and though as yet fame hath not ſounded the trumpet of his death; neither do I know any (thing by the voice of the People) but that he is very <hi>well</hi> and in perfect good health: yet (worthy Prince) my genius (conſpi<g ref="char:EOLhyphen"/>ring with your highneſs dream and <hi>viſion</hi>) dictats to my thoughts that he is by this time (to our great ſorrow) dead, being poiſoned by <hi>Remon</hi> at the appointment of <hi>Querinus,</hi> the Saxon Prince; who was lately of a fierce foe transformed into the ſhape of a feined friend. This I tell you and this you will find true; theſe are the Viper and the Snake (for they were at variance before, but agreed for the poiſoning of <hi>Vter</hi>) which have between them poiſoned the Vine (intimated by the grapes) which your Father ſignified by the man in a ſable habit (a fit emblem of death) taſted and dyed thereof; well what (renowned Prince) remains now, but that you muſt be that raging, fierce, revenging, and roaring Lyon, who with your powerfull and frightfull voyce of command ſhall make this Snake and this Viper, this <hi>Remon</hi> and this <hi>Querinus</hi> with all the reſt of that helliſh rabble of heatheniſh Pagans; theſe miſcreant Saxons to fly away and hide themſelves from your (Lyon like) <hi>fury.</hi> No ſooner were theſe ſpeeches by learned <hi>Merlin</hi> uttered, but preſent<g ref="char:EOLhyphen"/>ly a Poſt came in all haſt to give information of the buſineſs, ſignifying that King <hi>Uter Pendragon</hi> was poiſoned: the Saxons had poſſeſt them<g ref="char:EOLhyphen"/>ſelves of the Town of <hi>Salop,</hi> having moſt treacherouſly butchered man, woman, and child that were therein; firſt raviſhing both Wives and Virgins before their Husbands and Parents faces, and then made a ge<g ref="char:EOLhyphen"/>nerall maſſacre of all together: When Prince <hi>Arthur</hi> heard this ſad, (and horrible) report (after ſundry ſhort ejaculations invoking divine
+<pb n="5" facs="tcp:180645:6"/>aſſiſtance,) he turning to his Tutor <hi>(Merlin)</hi> ſaid thus; learned Sir your words are oracles, and ſo I ſhall ever eſteem of the ſame during my mortal life, when I ſwerve from your counſell, I can expect nothing but deſtruction to my ſelf and my people; and if <hi>Alexander</hi> eſteemed ſo much a dead <hi>Homers</hi> works, what ſhall I <hi>Arthur</hi> deem of a learne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Mer<g ref="char:EOLhyphen"/>lins</hi> voyce, the nobleſt Barrons, Prelates, &amp; common people of the King<g ref="char:EOLhyphen"/>dom, when they had notice of this Royal Tragedy made haſt <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> have a King to govern them, and a revenging ſcourge for their enemies, ſo with a unanimous conſent they choſe Prince <hi>Arthur</hi> for their Soveraign.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. Of the great Triumphs, Tilts and Turnaments uſed in his Court in the beginning of his reign, and the wonderful reſort of galliant wartiers.</head>
+               <p>THe barbarous Sarons having performed that treaſonable practiſe in the poiſoning of King <hi>Uter</hi> (as you heard in the precedent chap<g ref="char:EOLhyphen"/>ter) though they had made ſure work for the totall extirpation of the Britiſh blood, not thinking this our <hi>Arthur</hi> to be his ſucceſſor thought the hearts of the <hi>Britains</hi> (in this exigent) were ſet upon the conſideration of his promiſing vertues, which were the ſtep by which he principally aſcended the Throne. For although I do not, many then did queſtion his legitamacy of knowing that the love which King <hi>Uter</hi> profeſſed to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in <hi>Igren</hi> (for her beauty and vertue) cauſed the jarre between him and her husband; but thats not pertinent to our ſtory. <hi>Arthur</hi> is crowned King of <hi>Britain,</hi> and that the Saxons ſhall ſoon know to their coſt. At his firſt initiation into the government, he proclaimed a generall Tur<g ref="char:EOLhyphen"/>nament for all commers, at the City of <hi>Rerulam</hi> (long ſince buried in ruine and oblivion) near to St <hi>Albons</hi>) King <hi>Authur</hi> was crowned (<hi>by</hi> the hands of <hi>William Biſhop</hi> of <hi>London</hi>) to this Triumphant Tilt, and Turnament: it is wonderful to relate what reſort there was of gal<g ref="char:EOLhyphen"/>lant wartiers from all-neighbor Nations; from <hi>Scotland, Ireland, France</hi> and <hi>Almaine,</hi> the moſt approved Knights for valour gave luſter to King <hi>Arthurs</hi> Court, who for munificent entertainment and large hoſpitality far ſurmounted all his prececeſſors: at this Turnament (which laſted all the Whitſon week and four daies alter) was much galantry perfor<g ref="char:EOLhyphen"/>med, both by our Britaines and Forraigners, which were tedious to relate in particular. In this brief diſcourſe it ſhalt ſuffice to nommate ſome of the principall actors in this martiall ſcene, how they were mated and who were Victors. Firſt <hi>Cador</hi> Duke of <hi>Cornwal</hi> a moſt valiant and Britiſh Knight, encountred <hi>Macpar</hi> Prince of <hi>Lenſter</hi> (in <hi>Ireland</hi>) a mighty man in ſtatute and conpoſure of body ſo of equall skill and courage with the beſt knight then living. Theſe two Heroes at
+<pb n="6" facs="tcp:180645:7"/>their firſt carrier found fortune ſo impartiall in her friendſhip that they were were both ſent one way, their bodies fell to the earth, and their ſpears mounted (with their fame) into the the aire. This they did thrée ſeverall times with the like iſſue. <hi>Cador</hi> likewiſe can againſt <hi>Godfrey Count</hi> of <hi>Henault,</hi> a very good, and experienced Knight, to whom Lady Fortune had been heretofore extremly prodigall in curteſies, but now to ſhew her mutability, her fame left him, and ſo did his vitall breath; for being a corpulent man of body, with the violent fall from his horſe he broke his neck and died preſently in the place, whoſe death was ſo gene<g ref="char:EOLhyphen"/>rally lamented, that the good Knight Duke <hi>Cador</hi> ſorrowfully threw off his armour and tilted no more during all the time; briefly the Earle of <hi>Ludlow</hi> overthrew and wounded the Duke of <hi>Mountpelier;</hi> the Earle of <hi>Rothſay</hi> (a gallant <hi>Scot</hi>) did the like to the Count St <hi>Paul,</hi> and the King of <hi>Northwals</hi> running againſt the Duke of <hi>Halſtein</hi> threw both him and his horſe to the ground, breaking (with the violence of the fall) the neck of the horſe and the arme of the rider, the Duke of <hi>Britain</hi> did the like with the Count of <hi>Ipre;</hi> but the moſt notable combate of all that I have either mentioned or (for brevity omitted) hapned upon the laſt day between the Count <hi>Palatine</hi> of <hi>Cheſter</hi> and the <hi>Daulphin</hi> of <hi>Viena,</hi> which conſidering all circumſtances deſerves expreſſion (though in a brief manner) during the Courtly entertainment before the Turnament (and in the intrim) theſe two young gallants, both Batchelors, became mutually enamoured on the matchleſs beanty of the Lady <hi>Jaquinta</hi> ſole daughter and heire to the Earle of <hi>Flintſhire,</hi> who was a Courtly atten<g ref="char:EOLhyphen"/>dant on (and Neece to) the Queen <hi>Igren</hi> the Kings Mother, and be<g ref="char:EOLhyphen"/>ing jealous of each others fortune in the affairs of <hi>Cupid; Mars</hi> (upon this offered occaſion interpoſing himſelfe as a moderator to decide the difference, ſo that being interiorly (as well as exteriorly) armed, and both gallantly mounted, they entred the Liſts with extraordinary engagment, and courage (as the event juſtifies) at their firſt encounter, both of them fell horſe and man to the ground ſorely bruiſed, and recovering their legs (contrary to their for<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ners) ſell to it firecely with their ſwords, their manhood whetted on that fair Ladies perfections, turned friendly tryall (by turnament) to the mortal thirſt of revenge, with ſuch eager ſtroaks one of them purſued the other, that the Princely ſpectators muſt needs judge death to be the umpire of the controverſie; for both being diſſwa<g ref="char:EOLhyphen"/>ded by Royall command, and intreated of friends, all was anſwered with deſire of proſecution, with ſuch accerbity and accrimony of heart, did they ſtride to defend, and offend, that it was hard to cenſure whe<g ref="char:EOLhyphen"/>ther malice or valour had moſt predominance, the Count <hi>Palatine</hi>
+                  <pb n="7" facs="tcp:180645:7"/>judging his native right to the Lady more then the <hi>Dolphin</hi> which was an Aliene and the <hi>Dolphin</hi> deeming that Princely birth, and correſpon<g ref="char:EOLhyphen"/>dent qualities might merit affection in any part of the world. This is the beginning and ground of the quarrel; whereof the end and iſſue is death to both, as you ſhall hear preſently; the <hi>Dolphin</hi> hit the Count <hi>Palantin</hi> ſuch a forcible blow on the helme, making way by ſteele (through ſteele) it both pierced his skull, and alſo brought him upon his knees, at which advantage, he ran violently upon him to have cruſh<g ref="char:EOLhyphen"/>ed him to the earth, but the Count <hi>Palatine</hi> (act<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive both in body and ſpirit) reaſſumes his legs (the <hi>Dolphins</hi> ſtrength being much interior to his) and with his kine ſword lent him ſuch a lucky, or unluckly ſtroake between the head and ſhoulders, that cutting his windpipe, down fell the <hi>Dolphin,</hi> but as he fell he thruſt his ſword under the skirt of the Count <hi>Palatines</hi> armor, which viſiting his intrals with the point of death: theſe two noble Knights and lovers, though not of each other, dyed both together in hatred, neither of them injoying his wiſh, but re<g ref="char:EOLhyphen"/>venge: and ſo with the end of them I will finiſh the feaſt, and turna<g ref="char:EOLhyphen"/>ment, and withall conclude this chapter.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. Of King <hi>Arthurs</hi> firſt War with the Saxons, and how he victoriouſly overcame them in twelve ſeveral ſet battels, to the ſubduing of their pride and preventing their progreſs of conqueſt during his own, and his next ſucceſſors raign.</head>
+               <p>
+                  <hi>THe</hi> triumph thus tragically begun and ended; our worthy <hi>Arthur,</hi> having firſt ſolemnized the funeral obſequies of his Royal Father; alſo the Count <hi>Henault,</hi> the <hi>Dolphin</hi> of <hi>Viena,</hi> and the Count <hi>Paſatine</hi> of <hi>Cheſter,</hi> which was on four ſeverall dayes performed with all due celebritie, begins to think the redemption of both upon his native Coun<g ref="char:EOLhyphen"/>try from Pagan ſlavery, and revenging of his Royall Fathers horrible murder. And to this intent be with all poſſible celerity, muſters up all the bold Britains of this Kingdome Chieſtains and Barrons aſſembling at <hi>London</hi> the metropolitant city of the realm, he made an oration unto them to this or the like effect. Noble natives, on whom, next to divine help, my honour, wealth, and ſafty depends, now is the time that we muſt arme our ſelves with Chriſtian confidence againſt theſe miſbeſee<g ref="char:EOLhyphen"/>ming miſcreants, who for ſo long a time have gurmundized
+<pb n="8" facs="tcp:180645:8"/>and glutted themſelves in ours and our worthy amatours blood, the execrable maſſacce at <hi>Salop</hi> begun in the poiſon of our Royall Father, being yet in freſh bleeding memory, néeds no other incentive, it being of it ſelfe a motive forcible enough to conglutinat your hearts, and put edge to your valour againſt theſe blaſphemors of Chriſt and his Law, and captivators of us, and what ſhould be moſt dear to us, even our conſciences: to the heatheniſh Idolatry and mercileſs tyranny, much néeds not be ſaid to excite, when the cauſe it ſelfe is ſo urgent, and preſ<g ref="char:EOLhyphen"/>ſive. Be ye true to me, your Soveraign, as I by Gods aſſiſtance, whoſe ſubſtitute I am, will be faithfull and juſt, to defend and protect you my Chriſtian Britiſh Subjects, from the vaſalage of theſe infidels; and I doubt not but we ſhall bring theſe our godly reſolutions to a happy and a glorious period. This ſpeech was received with a generall plauditie, the acclamations of the people were ſo loud, and great, that it is almoſt beyond credit to tell how far they were heard, of arme, arme, arme, now is all the cry, and there was no need of preſsing of ſouldiers as we uſe now adayes, for ſouldiers preſſed forward to this War, with<g ref="char:EOLhyphen"/>out command or pay: So that within a fortnight ſpace and leſs, there appeared in ſundry places of the Land above <hi>200000</hi> able fighting men, all compleatly armed, all crying for God, King <hi>Arthur,</hi> the Britiſh Liber<g ref="char:EOLhyphen"/>ty, and Chriſtian Religion: Well, but what do the Sarons all this while, are they idle? no, great preparations are made, new forces arm dayly at the ſeveral ports and havens of the Land: Some at <hi>South<g ref="char:EOLhyphen"/>hampton,</hi> others at <hi>Sandwich,</hi> and a third at <hi>Famouth;</hi> now is <hi>Britaine</hi> become an Acceldama, nothing but blood, ruine and ſlaughter is to be expected; but the beſt of it, it is King <hi>Arthur</hi> and his noble <hi>Britains</hi> are alwaies victorious: the Pagan Idolaters fall under the Chriſtian ſword; inſomuch that within <hi>18.</hi> months <hi>12.</hi> mighty hoſts of Saxons are over<g ref="char:EOLhyphen"/>thrown in <hi>12.</hi> ſeverall ſet battels, ſought in ſundry places of the King<g ref="char:EOLhyphen"/>dome; the firſt and greateſt was in <hi>Shropſhire</hi> near <hi>Salop</hi> upon <hi>New-Years</hi> day <hi>A. D. 517</hi> where <hi>46000</hi> Pagan Saxons were ſent to the devil for a <hi>Newyears</hi> gift, <hi>3000.</hi> chieſe Commanders, and Pymen, as they call them, taken priſoners; this memorable battell in a manner made ſhip wrack of all the Saxon greatneſs in this Land; yet in <hi>March</hi> fol<g ref="char:EOLhyphen"/>lowing by the aide that came from them from beyond the Sea, and their ſcattered forces which they had rallied together they openly oppoſed K. <hi>Arthur</hi> and his Britiſh Army, near to <hi>Oundly</hi> in <hi>Norhampton ſhire,</hi> where with the ſlaughter of above <hi>18000</hi> Saxons and <hi>150</hi> priſoners,
+<pb n="9" facs="tcp:180645:8"/>King <hi>Arthur</hi> abtainted a glorious victory. To make ſhort, what would beoverlorg if I ſhould tell you all; in the ſpace of time above mentioned this noble Chriſtian worthy, became conqueror of theſe bloody, and amkious Saxon conquerors. <hi>12,</hi> ſeverall times; inſomuch that they not being able any longer to withſtand his never changing Fortune, were at the laſt (ſo many as were left alive) enforced quite to abandon the Land, to which they never returned during the raigne of <hi>Arthur,</hi> and his next ſucceſſor, which was (his Nephew) <hi>Conſtantine,</hi> Son to the late mentioned <hi>Cador</hi> the valiant and magnanimous Duke of <hi>Corn<g ref="char:EOLhyphen"/>wall:</hi> Thus much for his firſt war with (and extirpation of) the Saxons, wherein he ſhewed himſelfe to be a true Son to his poiſoned Father, and a juſt Father to his his oppreſſed, diſtreſſed, and captived Nation great <hi>Britain.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. How King <hi>Arthur</hi> croſt the Seas, and ſubdued Denmark and Norway and Gothland unto him, in which voyage many notable occurrances paſſed well worth obſervation.</head>
+               <p>HAving thus victoriouſly triumphed over his enemies at home, our (not idle) <hi>Arthur</hi> cauſed a Navy of <hi>400.</hi> ſhips to be preſently well rigged and manned, and an Army conſiſting of <hi>60000.</hi> foot, and <hi>20000.</hi> horſe to be ready to attend his Majeſty upon what deſigne he would be pleaſed to imploy them; which done, himſelfe in his Royall perſon, his kinsman <hi>Cador</hi> Duke of <hi>Cornwall,</hi> whom he made Cap<g ref="char:EOLhyphen"/>tain Generall of the horſe, the Earle of <hi>Ludlow</hi> named St <hi>Marſton,</hi> Lieutenantgenerall under him; the Earle of <hi>Leiceſter, Lincolne, Salop,</hi> and <hi>Flintſhire,</hi> all imployed in places of great charge in the Army. <hi>Morgan</hi> King of <hi>Norhwales,</hi> and <hi>Theoder</hi> (of whom the moderne name <hi>Tender</hi> originally ſprung) King of <hi>Southwales</hi> each of them voluntari<g ref="char:EOLhyphen"/>ly offering unto King <hi>Arthur</hi> (to whom they did fealty) their aide and aſſiſtance in this gallant intended voyage; So that having all things fitting, and nothing wanting (that might promiſe propecty) our famous and renowned Navy, with our bold Britiſh Chriſtian Army, put from <hi>Dover</hi> in the Ides of <hi>March, Anno 519.</hi> for the Conqueſt of thoſe three then Pagan Nations, <hi>Denmark, Norway, and Gothland,</hi> and with ſuch happy gales they were befriended, and waited on by ſuch auſpitious ſtars, that as they were not long under ſaile, ſo upon the ſhore their wiſhes were anſwered with ſucceſſe accordingly, inſomuch that
+<pb n="10" facs="tcp:180645:9"/>it was no more then hope and have, wiſh and win; for our <hi>Arthur</hi> might alwaies ſay with <hi>Caeſar, veni, vidi, vinci,</hi> I came, I ſaw, I over<g ref="char:EOLhyphen"/>came; ſo the divine power was ſo immediately aſſiſtant, with this valiant Chriſtian Champion our worthy Britiſh <hi>Arthur,</hi> that what enterpriſe ſoever he took in hand (though never ſo much difficulty appeared in it) he was certain to come off victor; at his arrivall in <hi>Denmark,</hi> mighty oppoſition was made to prevent farther entrance into the Land; but all in vaine, our Noble Brittains (had been by former experience) taught to account that ground whereon their féet ſtood, to be their own inheritance, and that they would never part withall alive: this re<g ref="char:EOLhyphen"/>ſolution cauſed King <hi>Arthur</hi> to conquer where he came, whatever oppo<g ref="char:EOLhyphen"/>ſion was made. The King of <hi>Denmark</hi> whoſe name was <hi>Eſchilleus,</hi> was at a ſtrong hold of his, called <hi>Bull</hi> Caſtle, which King <hi>Arthur</hi> (ha<g ref="char:EOLhyphen"/>ving overcome the Daniſh Army) laid ſiege to, and in four dayes took it by maine aſſault: the King to ſave his life, humbly upon his knees did homage to K. <hi>Arthur,</hi> for his Kingdom, which he would hold of him as his leige Lord, paying to him (and his heirs, Kings of <hi>Britain</hi>) an an<g ref="char:EOLhyphen"/>val tribute of <hi>40000</hi> Ducats: which when <hi>Dolleivius</hi> King of <hi>Gothland</hi> heard who was comming to aſſiſt <hi>Eſchilleus</hi> (fearing the event) he be<g ref="char:EOLhyphen"/>gan to retire; but our horſemen ſo plyed the opportunity, that overta<g ref="char:EOLhyphen"/>king the reare of the army; they gave fierce onſet to them, holding them in play, till the maine body of the Britiſh foot came up, and indeed little ado their was to gaine this victory, which fear had halfe done already, the King was taken (with <hi>12.</hi> men in his company near to a wood ſide) by a party of our horſe, who were imployed in purſuit of the (diſpierced) army: who being brought before King <hi>Arthur,</hi> ſubmitted, reſigning himſelfe (his Crown and Kingdome) to hold in Fee of the Brittiſh Monarchy, yearly allowing a tribunary ſtipend of <hi>700.</hi> Franks (of Gold) delivering his own brother <hi>Harpus</hi> (Prince of <hi>Finia</hi>) in hoſtage till ſecurity was made for the true payment of it. With this proſperous ſucceſſe, our worthy <hi>Arthur</hi> ſet forward to <hi>Norway,</hi> the King whereof (<hi>Lotho</hi> by name, a man of marvelous ſtrength and valour) having had intelligence of all that had paſſed in <hi>Denmark</hi> (and thereby conjecturing what would come to paſs) gathering all the premiſſion that might be of men and armes to check the caréere of this unreſiſtable army; which he indeed had accompliſhed, but that a power more then humane prevented it: at the firſt arrivall of the Britaines (which they permitted as tru<g ref="char:EOLhyphen"/>ſting upon their lands ſtrength, which was <hi>300000</hi> horſe and foot in a minute all that the Land could make) King <hi>Arthur</hi> ſent a meſſen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er to King <hi>Lotho,</hi> requiring of him his Kingdome, and people to yeeld obedi<g ref="char:EOLhyphen"/>ence
+<pb n="11" facs="tcp:180645:9"/>to the Chriſtian Crown of <hi>Britain,</hi> as his neighbor Kings had done; which if he refuſed to do (without effuſion of blood) he doubted not to gain by force what he ſought to win by favor: the proud Pagan Prince (preſuming upon his own, more then common ability of body, and the maynitude of his army, ſent back this deſpicable anſwer (by way of defiance and challenge) to King <hi>Arthur,</hi> and his chevalry. Know daring <hi>Arthur,</hi> that thou and all thy crafty Chriſtians, whom contemptuouſly thou haſt brought againſt the decree of the gods, into this Northern part of <hi>Europe,</hi> ſhall be the laughing ſtock of <hi>Lotho</hi> and his matchleſs Nor<g ref="char:EOLhyphen"/>veigians, and although fortune have ſmited thee to triumph over the cowardiſe of <hi>Eſchillius</hi> and <hi>Dollavius</hi> wits; aſſure thy ſelfe all this will conduce to the greater glory of me, who am (by the gods) deſigned to be the Conqueror of thee, who hath conquered ſo many of their devout ſupplicaters, thou art come upon my land without my leave, but ſhalt never depart thence with thy life; but becauſe I intend to win a particular praiſe in thy ruine (and the chiefe men with thee) I challenge thy ſelf to méet my ſelf, in perſonal combat, and if thou, &amp; they think well of it, <hi>10.</hi> of the moſt approved Knights in thy army, againſt <hi>10.</hi> of mine, this if accepted by thee and thine, ſhall be performed by me and mine, to morrow morning by <hi>9.</hi> of the clock, upon <hi>Armond</hi> plain, two leagues from either Army; bring you courage along with you, and let your horſes bring you to the place of deſtruction; at the time &amp; place appointed; if you fayle our expectation, we will not fayle to be with you (to the ruine of your hoſte) in the afternoon of the ſame day; in the in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rim, take leave to pauſe upon the words of thy mortall enemy <hi>Lotho, Rex Norvegia.</hi> This Letter comming into King <hi>Arthurs view,</hi> it is un<g ref="char:EOLhyphen"/>expreſſible with what joy he read it, and calling his Princes, Barrone, and illuſtrate Knights before him, unto them be communicated the pre<g ref="char:EOLhyphen"/>miſes; when preſently a vertuous emulation (and ſtrife aroſe among them) who ſhould be the combators in this glorious hazard; to be briefe, the buſineſs could no otherwiſe be decided then by caſting lots (ſo hun<g ref="char:EOLhyphen"/>gry were their Chriſtian appetites after this honourable breakfaſt) the lots fell upon Duke <hi>Cador</hi> of <hi>Cornwall, Morgan</hi> and <hi>Theodore</hi> King of North &amp; South <hi>Wales,</hi> the Earle of <hi>Leceſter, Lincoln, Flint, Ludloe,</hi> and <hi>Salop,</hi> the Barron of <hi>Aberqueny,</hi> and the Barron of <hi>Bark;</hi> theſe <hi>10.</hi> gallant Knights to the ſpirituall envy of many others) rode along with <hi>King Arthur</hi> (at the time to the place appointed) where they met there reſolute opponents, ſo punctual to promiſe, that I may well ſay they met indeed, neither party ſtaying for the other; but juſt comming to the place together, as though the <hi>22.</hi> horſes had been privy to catch others ſe<g ref="char:EOLhyphen"/>crets,
+<pb n="10" facs="tcp:180645:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:180645:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:180645:11"/>or known their riders intentions: Thus being mutually met after a few courſe complements (ſuch as the preſent occaſion dictated) they fell to the buſineſs which they came about, with ſuch impartiall hardines, that you might well gueſs that the one party fought to win a Kingdome, and the other fought to ſave one: it would be both trouble<g ref="char:EOLhyphen"/>ſome and tedious to recite the particulars of this happy bickering, there<g ref="char:EOLhyphen"/>fore I will content my ſelfe with the rehearſall of the two Kings encoun<g ref="char:EOLhyphen"/>ter combat, &amp; ſucceſs, onely generally telling how the reſt behaved them<g ref="char:EOLhyphen"/>ſelves, and to whom the victory hapned: King <hi>Arthur</hi> charged his enemy ſo furiouſly at their firſt encounter, that <hi>Lotho</hi> being a man of admirable ſtrength, &amp; not able to unhorſe him, he himſelfe was ſo near diſmounting, that he recoyled into thecrouper of his Saddle, at which his very eyes re<g ref="char:EOLhyphen"/>vealed the anger of his heart, ſo that recovering his ſeat, and at a ſecond paſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge both their Lances (though marvelous ſtrong) flew into the ayre, but with the vehemency of the ſtroke King <hi>Lothos</hi> left ſhoulder joint was diſſocated, which he chafing (like a bore) ſought his beſt advan<g ref="char:EOLhyphen"/>tage by ſudden diſmounting, but King <hi>Arthur</hi> (the activiſt man alive was on ground with ſword in hand before him, and at the firſt veny ſtruck him on the head ſo vigorouſly, that he cleft his helme and head to the eyes; ſo down fell <hi>Lotho</hi> like a mighty Oake, yeelding his body and King<g ref="char:EOLhyphen"/>dome to the mercy of <hi>King Arthur,</hi> how he would bury the one, and diſ<g ref="char:EOLhyphen"/>poſe of the other; in the intrim our hardy Britiſh Knights had ſlain <hi>6.</hi> of their <hi>10.</hi> Antagoniſts, and mortally wounded the of her four, either of them having received any notable hurt: the Earle of <hi>Flint</hi> had his horſe ſlain under him, the like had the King of <hi>Northwales,</hi> Duke <hi>Cador</hi> was cut in the arme, the Earle of <hi>Leiceſter</hi> in the leg, and the Earle of <hi>Sa<g ref="char:EOLhyphen"/>lop</hi> in the ſhoulder, no other hurt was done unto the Britiſh Party, the dejected Norveigians hearing theſe tydings (ſo full of horror to them) threw down their weapons and fled, whom our <hi>Britains</hi> overtaking; King <hi>Arthur</hi> cauſed a proclamation to be made, that whoſoever would forſake the worſhip of their falſe gods, and adore the true God Jeſus Chriſt, and be baptized into the Chriſtian Faith, ſhould be received to mercy, the obſtinate to expect none: upon this many thouſands promiſed, and in four dayes performed the ſame, by baptiſme, and confeſſion of the Chri<g ref="char:EOLhyphen"/>ſtian Faith; among the reſt, the Duke of <hi>Erikine</hi> next heire to the Crown of <hi>Norway,</hi> was baptized, and Crowned both in one day (by the Biſhop of <hi>Menevia</hi> (ſince called Saint <hi>Davids</hi>) who was alwaies attendant on King <hi>Arthur,</hi> who receiving homage of this new Chri<g ref="char:EOLhyphen"/>ſtian King (the firſt of that name and condition, for ſo he was named at
+<pb n="13" facs="tcp:180645:11"/>his imitation to his Kingdome and Chriſtianity) for the Kingdome of <hi>Norway,</hi> our illuſtrious King <hi>Arthu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> (with his Royall Britiſh army, laden with honour and victory) left theſe coaſts, and ſet ſayle for Britain, where ſoon ari<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, they were received with uncredible gladneſs, and triumph, as ſuch a ſproſperdus voyage deſerved.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. How King <hi>Arthur</hi> inſtituted the order of the Round Table, and graced it with 150. Knights, with the reaſon of its inſtitution to maintain con<g ref="char:EOLhyphen"/>cord.</head>
+               <p>KIng <hi>Arthur</hi> having filled all eares with the fame of his incompara<g ref="char:EOLhyphen"/>ble victories, and being at home on all ſides quiet, by none moleſted, by all loved or feared, to honour thoſe high born Princes, Nobles, and Barrons, who had done God and him ſuch notable ſervice, he bethought him how he might in ſome manner guerdonize their (incomparable) worth, with ſome honourable Order of Knights, had (a thing cuſtoma<g ref="char:EOLhyphen"/>ry in many renowned conquerors) and becauſe he took notice that being moſt of them of equivolent condition, both in birth, and haughtineſs of ſpirit, to avoid emulation, envy, and heart burnings, incident to ſuch a Company about priority or precedency of place at feaſts, to prevent any ſuch occaſion of diſtraction (and to continue concord, and mutuall corre<g ref="char:EOLhyphen"/>ſpondence among that noble fellowſhip,) he inſtituted at the City of <hi>Wincheſter</hi> where he then was reſiding) the Order of the Round Ta<g ref="char:EOLhyphen"/>ble, cauſing a certaine number of Round Tables to be made, at which theſe illuſtrious Heroes dined, and ſupped, the ſalt and the bread alwaies ſet in the middle, there was neither upper end nor lower end (of the Ta<g ref="char:EOLhyphen"/>ble) but all equall; into this noble Order was received <hi>150.</hi> men of high bloud &amp; quality which (of what high birth ſoever) none were under the degree of Barron) were called Knights of the Round Table, and be<g ref="char:EOLhyphen"/>cauſe I find many of their names to be at this day great ſirnames in the Monarchy of great Britain, I think it convenient (to the honour of the bearers, notwithſtanding my promiſed brevity) to ſet down the names of the firſt Knights of the Round Table in Alphabeticall order as I found them long ſince in an old Chaucerian manuſcript.</p>
+               <pb n="14" facs="tcp:180645:12"/>
+               <figure>
+                  <figDesc>King Arthur and nine knights seated around a round table, with a sword near the middle of the table</figDesc>
+               </figure>
+               <list>
+                  <item>1. SIr Acolon.</item>
+                  <item>2. ſir Alot.</item>
+                  <item>3. ſir Agar.</item>
+                  <item>4. ſir Aucruiſe.</item>
+                  <item>5. ſir Ambroſs.</item>
+                  <item>6. ſir Aſcot.</item>
+                  <item>7. ſir Aſcue.</item>
+                  <item>8. ſir Albone.</item>
+                  <item>9. ſir Aubaurne.</item>
+                  <item>10. ſir Aſh.</item>
+                  <item>11. ſir Amice.</item>
+                  <item>12. ſir Beumans.</item>
+                  <item>13. ſir Belamore.</item>
+                  <item>14. ſir Berſunt.</item>
+                  <item>15. ſir Belvoire.</item>
+                  <item>16. ſir Bots.</item>
+                  <item>17. ſir Beleobus.</item>
+                  <item>18. ſir Baſſet.</item>
+                  <item>19. ſir Bygot.</item>
+                  <item>20. ſir Brian.</item>
+                  <item>21. ſir Bevis.</item>
+                  <item>22. ſir Beſt.</item>
+                  <item>23. ſir Butlacie.</item>
+                  <item>24. ſir Bande.</item>
+                  <item>25. ſir Betris.</item>
+                  <item>26. ſir Baulks.</item>
+                  <item>27. ſir Cador.</item>
+                  <item>28. ſir Chriſtian.</item>
+                  <item>29. ſir Carlton.</item>
+                  <item>30. ſir Cleere.</item>
+                  <item>31. ſir Clare.</item>
+                  <item>32. ſir Cade.</item>
+                  <item>33. ſir Coſels.</item>
+                  <item>34. ſir Callin.</item>
+                  <item>35. ſir Clay.</item>
+                  <item>36. ſir Corts.</item>
+                  <item>37. ſir Caſtor.</item>
+                  <item>38. ſir Daubeny.</item>
+                  <item>39. ſir Delamore.</item>
+                  <item>40. ſir Deucie.</item>
+                  <item>41. ſir Dallin.</item>
+                  <item>42. ſir Doughty.</item>
+                  <item>43. ſir Daynty.</item>
+                  <item>44. ſir Dunſmore.</item>
+                  <item>45. ſir Darcy.</item>
+                  <item>46. ſir Dalby.</item>
+                  <item>47. ſir Duncombe.</item>
+                  <item>48. ſir Dotrill.</item>
+                  <item>49. ſir Doguery.</item>
+                  <item>50. ſir Doriner.</item>
+                  <item>51. ſir Evan.</item>
+                  <item>52. ſir Ector.</item>
+                  <item>53. ſir Eincrie.</item>
+                  <item>54. ſir Eiſmeere.</item>
+                  <item>55. ſir Eatone.</item>
+                  <item>56. ſir Eger.</item>
+                  <item>57. ſir Edwards.</item>
+                  <item>58. ſir Erskeine.</item>
+                  <item>59 ſir Euball</item>
+                  <item>60 ſir Eupheos</item>
+                  <pb n="15" facs="tcp:180645:12"/>
+                  <item>61 ſir Ermin</item>
+                  <item>62 ſir Floll</item>
+                  <item>63 ſir Frith</item>
+                  <item>64 ſir Fly</item>
+                  <item>65 ſir Fotſcue</item>
+                  <item>66 ſir Feilde</item>
+                  <item>67 ſir Foulke</item>
+                  <item>68 ſir Fly</item>
+                  <item>69 ſir Flesk</item>
+                  <item>70 ſir Forbs</item>
+                  <item>71 ſir Fleere</item>
+                  <item>72 ſir Frisk</item>
+                  <item>73 ſir Font</item>
+                  <item>74 ſir Fode</item>
+                  <item>75 ſir Freake</item>
+                  <item>76 ſir Fax</item>
+                  <item>77 ſir Ghiſlet</item>
+                  <item>78 ſir Gavin</item>
+                  <item>79 ſir Gaheris</item>
+                  <item>80 ſir Gareth</item>
+                  <item>81 ſir Gravet</item>
+                  <item>82 ſir Geuls</item>
+                  <item>83 ſir Gortrim</item>
+                  <item>84 ſir Gilden</item>
+                  <item>85 ſir Giles</item>
+                  <item>86 ſir Goulde</item>
+                  <item>87 ſir Gaull</item>
+                  <item>88 ſir Gueſt</item>
+                  <item>89 ſir Hard</item>
+                  <item>90 ſir Hay</item>
+                  <item>91 ſir Hope</item>
+                  <item>92 ſir Hill</item>
+                  <item>93 ſir Hunt</item>
+                  <item>94 ſir Hugin</item>
+                  <item>95 ſir Harcourt</item>
+                  <item>96 ſir Harold</item>
+                  <item>97 ſir Hamond</item>
+                  <item>98 ſir Hoby</item>
+                  <item>99 ſir Hollis</item>
+                  <item>100 ſir Jermin</item>
+                  <item>101 ſir Ingram</item>
+                  <item>102 ſir Iſlip</item>
+                  <item>103 ſir Ipre</item>
+                  <item>104 ſir Jones</item>
+                  <item>105 ſir Joyce</item>
+                  <item>106 ſir Ive</item>
+                  <item>107 ſir Killian</item>
+                  <item>108 ſir Kirk</item>
+                  <item>109 ſir Kercacy</item>
+                  <item>110 ſir Knevet</item>
+                  <item>111 ſir Kilegrew</item>
+                  <item>112 ſir Lancelot</item>
+                  <item>113 ſir Lanjon</item>
+                  <item>114 ſir Lyonell</item>
+                  <item>115 ſir Lewes</item>
+                  <item>116 ſir Loftus</item>
+                  <item>117 ſir Laude</item>
+                  <item>118 ſir Leuellen</item>
+                  <item>119 ſir Lovelace</item>
+                  <item>120 ſir Leukror</item>
+                  <item>121 ſir Maurice</item>
+                  <item>122 ſir Martin</item>
+                  <item>123 ſir Mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ton</item>
+                  <item>124 ſir Miles</item>
+                  <item>125 ſir Meridith</item>
+                  <item>126 ſir Mariot</item>
+                  <item>127 ſir Newton</item>
+                  <item>128 ſir Norton</item>
+                  <item>129 ſir Norman</item>
+                  <item>130 ſir Nayler.</item>
+                  <item>131 ſir Nudig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te</item>
+                  <item>132 ſir Napper</item>
+                  <item>133 ſir Oliver</item>
+                  <item>134 ſir Osbolſtone</item>
+                  <item>135 ſir Ould<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oire</item>
+                  <item>136 ſir Osbourne</item>
+                  <item>137 ſir Percivall</item>
+                  <item>138 ſir Pelieas</item>
+                  <item>139 ſir Pallamaide</item>
+                  <item>140 ſir Peregrin</item>
+                  <item>141 ſir Playſter</item>
+                  <item>142 ſir Querin</item>
+                  <item>143 ſir Reiner</item>
+                  <item>144 ſir Roderik</item>
+                  <item>145 ſir Randolph</item>
+                  <item>146 ſir Sugris</item>
+                  <item>147 ſir Triſtram</item>
+                  <item>148 ſir Trsmore</item>
+                  <item>149 ſir Tracy</item>
+                  <item>150 ſir Valentine</item>
+               </list>
+               <p>Theſe were the Names of thoſe Princes and Noble Men.</p>
+               <pb n="16" facs="tcp:180645:13"/>
+               <p>FIrſt brother of this honourable fellowſhip (and fraternity) called Knights of the Round Table, betwéen whom there was ſuch an una<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mious and mutual correſpondency, that all the whole world admired the admirable feats of chivalry by them performed; for with theſe <hi>150.</hi> ſcarce any <hi>300.</hi> Knights in <hi>Europe</hi> durſt adventure to Combat; of their noble acte you ſhall hear further in the progreſs of our hiſtory to the end.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. How King <hi>Arthur</hi> and his Knights of the Round Table, fought againſt the Pits, Scots, Iriſh, and Saxons in one battell; and how he ſlew with his own hands, <hi>Colgrim</hi> King of the Saxons, <hi>Balduff</hi> his brother, and <hi>Childrick</hi> a Prince of Germany, and how he forced <hi>Guillamore</hi> King of Ireland to become tributary unto him.</head>
+               <p>SHe Saxons envying King <hi>Arthurs</hi> proſperity, and vexing at their late ſucceſs in <hi>Britaine,</hi> have now ſuborned the Picks, Scots, Iriſh, and the Heſens of Germany, to aide them in revenging themſelves upon <hi>K. Arthur;</hi> ſo they came hither with an army compoſed of all theſe afore<g ref="char:EOLhyphen"/>mentioned Nations, conſiſting of <hi>200000</hi> horſe and foot under the con<g ref="char:EOLhyphen"/>duct of <hi>Colgeim</hi> their King, <hi>Balduff</hi> his brother, <hi>Guillamore</hi> King of Ireland, and <hi>Childrick:</hi> (Prince <hi>Coras</hi> now <hi>Landsgrave) Heſen</hi> meaning to ſhare the Kingdome of <hi>Britain,</hi> among them, they landed ſuddenly in the North of <hi>England,</hi> and burnt and ſpoyled before them for the ſpace of <hi>18.</hi> miles without any oppoſition, but ſo ſoon as ever our Lyon like <hi>Arthur,</hi> &amp; his Knights heard of it, they came with a puiſſant force to withſtand them, and near to <hi>Humber</hi> obtained a glorious victory ſlew <hi>28000.</hi> in the Field of the common ſort, and took <hi>300</hi> of their chief Commanders priſoners; but which moſt adornes the victory, King <hi>Arthur</hi> himſelfe in perſon ſlew head to head <hi>Colgrim</hi> the Saxons King, with <hi>Balduff</hi> his brother, and <hi>Childrick of Heſen,</hi> but <hi>Guillamore</hi> King of Ireland truſting to his footmanſhip (for his horſe was ſlaine under him) ran towards the Sea ſide, thinking to eſcape by ſhipping, but Sir <hi>Cador</hi> overtaking him, brought him priſoner to the King, who forced him for the ſafeguard of his life, to teſigne his Kingdome unto his majeſty, and to that effect he did homage, yeelding to pay unto King <hi>Arthur</hi> (and his heires) a yearly purtion of nine thouſand pounds: Thus was our noble <hi>Arthur</hi> every way magnified, his foes every where conſounded; and the monarchy of <hi>Britain</hi> under his government
+<pb n="17" facs="tcp:180645:13"/>became the moſt moſt renovmed throughout all the whole world; the Saxons never daring to come towards it, during his reign nor his next ſucceſſors <hi>(Conſtine)</hi> as I told you heretofore.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. How King <hi>Arthur</hi> (and his Knights) ſayled to ſubdue Ireland, which he performed with great honour, converting that, and the adja<g ref="char:EOLhyphen"/>cent Lands, to Chriſtianity, and obedience to him and the Britiſh Monarchy.</head>
+               <p>GReat Spirits cannot be idle, the thoughts once fixed on honoura<g ref="char:EOLhyphen"/>ble at chievements, and cheriſhed with happy ſucceſs, are ever bu<g ref="char:EOLhyphen"/>ſied in finding out this jewel, where ever it lie hid in the worl: This is evident in our Chriſtian Worthy, and his gallant Knights, who loathing to be backward in putting forwards Gods glory in the en<g ref="char:EOLhyphen"/>largement of Chriſtendom: and hearing that Ireland, and other people thereabout live<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in heatheniſh Idolatry, and blind worſhip, not having the light of the Goſpell as yet revealed to them; he raiſed an army to reduce them to the Law of Chriſt (and obedience to him,) with happy ſucceſs this voyage goeth on, King <hi>Arthur</hi> and his Royal army, conſi<g ref="char:EOLhyphen"/>ſting of no more but <hi>30000.</hi> depending on divine Auxiliaries, adventure upon this great entepriſe, and arive happy in Ireland, where they find great oppoſition, yet overcome with ſmall difficulty: The people by Nature rude and ſavage, as hardy as their Country is cold; yet theſe cold comforts nor the peoples frozen conſcience, diſmay not our undaun<g ref="char:EOLhyphen"/>ted Britains, whoſe zealous fire is of force both to warme themſelves, and to thaw their enemies hearts: a forious encounter they ſound at their entrance; for the barbarous Iſlanders were upon a ſudden ranged into a body of above forty thouſand, their King <hi>Malvaſius</hi> (a renow<g ref="char:EOLhyphen"/>ned and hardy Knight, famouſed for many victories againſt the Laplan<g ref="char:EOLhyphen"/>ders and Finians) came himſelfe in perſon before his ſouldiers boldly demanding a ſight of, and ſpeech with King <hi>Arthur,</hi> which (to his happy unhappineſs) he ſoon attained.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. How King <hi>Arthur</hi> (and his Knights of the Round Table) ſayled into Paleſtine to fight againſt the Pagan Infidels, where they performed
+<pb n="18" facs="tcp:180645:14"/>wonderfull feats of chivalry to the honour of Chriſt and Chriſtianity; converting, or confounding all where ever they came.</head>
+               <p>LOng had not King <hi>Arthur</hi> and his (honour thirſty) Knights ſlept at home, but freſh adventure pricks them forward to travel; <hi>Europe</hi> (by their meanes) is quitted (and the fold of Chriſt much enlarged) but in <hi>Aſia</hi> the Pagan infidels rage; <hi>Paleſtine</hi> (with her Chriſtians) groanes under this heavy yoke; therefore our worthy <hi>Arthur</hi> and his gallant warries will not reſt in peace, while tydings of this horrible war and oppreſſion is ſpread through the land of Chriſtendome: briefly, with the very ſame army, which he brought out of the cold Countries, he marched upon this hot (yet honourable) enterpriſe, of all other the moſt laudable for a Chriſtian Army to engage himſelfe in; let us now imagine we ſee the Chriſtian Banner diſplayed between <hi>Jeruſalem</hi> and <hi>Jericho,</hi> upon the plain of <hi>Nabor,</hi> where an innumerable hoſt of Sara<g ref="char:EOLhyphen"/>ces are encamped againſt the <hi>Xerxian</hi> multitude (with great confidence) goes our Chriſtian Army, not doubting of (that which they near failed to get) victory, which by divine providence they accompliſhed; it were incredible to ſhew what extraordinary vertue King <hi>Arthur,</hi> and his Knights performed in that ſervice; for three dayes ſpace the battel con<g ref="char:EOLhyphen"/>tinued, and then our Chriſtian Army had the happineſs to behold the deſtruction and total rout of the whole Pagan hoſt.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI How King <hi>Arthur</hi> returned into England. He and <hi>Mordred</hi> were both ſlain in battell, and how noble King <hi>Arthur</hi> was buried at Glaſenbury in Summerſet-ſhire.</head>
+               <p>NOw hath proſperous wind and weather brought our worthy <hi>Ar<g ref="char:EOLhyphen"/>thur</hi> (and his bold beloniſts) to the Britiſh Coaſts; he ſeeks la<g ref="char:EOLhyphen"/>ding at <hi>Dover<g ref="char:punc">▪</g>
+                  </hi> but finds it fortified, to impeach his arrivall the tray for <hi>Mordred</hi> had ſo poſſeſſed the people with his ſpirit of treaſon, and rebel<g ref="char:EOLhyphen"/>lion, that they in ſtead of magnificent ſhews, and trumphes to welcome him (as his vertue required, and their duty had heretofore done) defied him to his face (O ingrateful Cai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ifs) and inſolently denies his entrance into his owne inheritance (a very unfit guerdon for the unparalen'd honour) wherewith King <hi>Arthur</hi> and his Knights had endowed and a<g ref="char:EOLhyphen"/>dorned the Britiſh Monarchy) upon the Britiſh ſhore he can ſet no foo<g ref="char:EOLhyphen"/>ting,
+<pb n="19" facs="tcp:180645:14"/>but by force which (if there be no remedy) he knows how to do (being ſo long (and ſo well) verſt in that buſineſs) and ſo by force doth enter, and is by a huge army of (baſtardly) Britaines oppoſed, a cruell fight is maintained for a long time, in fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the King <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s victor the uſurper and his wicked company (for ſo many as eſ<g ref="char:EOLhyphen"/>caped alive) fly and were purſued by the King, and their own evill conſciences, yet being hardned with malice and as it were ſteeled with baſeneſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; the miſcreants (in that nature worſe then the Pagan Infidels which his all conquering courage had ſo often triumphed over) have the face again to afront that majeſty, the ſplen<g ref="char:EOLhyphen"/>der whereof had ſo dazelled the eys of the world (which looking on his glor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous conqueſt) that none beheld his countenance (in a warlike conſtruction) without fear and trembling<g ref="char:punc">▪</g> nor durſt they hav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> done it had they not been (too bold in ſuch an action) Britains that dare do any thing Sir (<hi>Cador</hi> that matchleſs man of men) was ſlaine fighting againſt a whole Regiment. Sir <hi>Gawin,</hi> a man of in<g ref="char:EOLhyphen"/>vincible valour, coming to his reſcue, alſo with him joyned in fellowſhip of death, the renowned, and couragious young King of <hi>Scotland Arguiſell</hi> by name, coming to the aide of King <hi>Arthur,</hi> dyed gallantly fighting in his quarrell, Sir <hi>Killian de Londre</hi> environed with a troup of horſe after the death of 12. men, which with his own hand he ſlew, was himſelfe hit with a dart throwne from a common Iriſh or Pictiſh hand laid dead on the earth Sir <hi>Martin de Foreſt</hi> in reſcuing King <hi>Arthur</hi> encompaſſed with a troup of horſe (that ſought to have taken him) was ſhot into the heart with an arrow, and dyed preſently: after this Sir <hi>Cador,</hi> Sir <hi>Gawin,</hi> Sir <hi>Kildan,</hi> and Sir <hi>Martin,</hi> after ſo many unequalled victories abroad, came to yield their loyall hearts, by the hands of perfidious Rebels, their own nativ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, into the power of death in their native Country; alſo that valiant Scot before mentioned King <hi>Arguiſel,</hi> thoughnot a Knight of the Round Table, yet an undaunted Knight and truſty friend to King <hi>Arthur;</hi> who like an enraged Lyon makes ſlaughter on every ſide with his ſword beyond the expectation of humane force; inſomuch that the enemy beginning to diſpaire of victory, a Pictiſh ſouldier (ſuborned by <hi>Mordred</hi>) cries out aloud in the Britiſh Language, fly you Britaines, what do you fight for; <hi>Arthur</hi> your King (on whom you depend) and all his Knights of the Round Ta<g ref="char:EOLhyphen"/>ble are dead: This made King <hi>Arthurs</hi> ſouldiers begin to ſtart, which he hearing made haſt to the moſt eminent place that he could find, where being conſpicuous (and viſible to them all, he ſpoke theſe conragious words: Fight on (fellows in armes) I am (I praiſe heaven for it) neither dead nor wounded, but in perfect health (and ſtrength) and that theſe vallanous rebeſs and traytors (who ſpeak what they wiſh) ſhall ſoon find theſe words kindle freſh fire of valour in the breaſts of all true Bri<g ref="char:EOLhyphen"/>taines, ſo as the battell did (as it were) begin anew; inſomuch that the perfidi<g ref="char:EOLhyphen"/>ous <hi>Mordred</hi> without hope, fled with his rebellious remnant towards the Towns of <hi>Glaſenbury</hi> in <hi>Somerſet</hi> ſhire, whither King <hi>Arthur</hi> and his Knights, with the reſt of his gallantry, ſpeedily purſued them, and there began afreſh to fight<g ref="char:punc">▪</g> where King <hi>Arthur,</hi> who in former fights had received ten ſeverall wounds in his head, but none mortall till now, that the ſpeele of a (broken) Launce hapned to pierce his skull, and that proved his deaths wound; but before he dyed, even when he felt the very agony of death approaching in his hot incenſed bloud, he did wonderfull execution upon his enemies, and ſtill continued fighting (as though he had felt no hurt) till a meſſenger brought him tydings that the Trator <hi>Mordred</hi> was ſlain; then ſaid he, the unreſiſtable will and decree of heaven be done, for I am well conten<g ref="char:EOLhyphen"/>ted, and willing to dye: So ſoon as the Rebels heard, and ſaw that their Captain <hi>Mordred</hi> was dead, it is wonderfull to relate in what a diſordered confuſion they
+<pb n="20" facs="tcp:180645:15"/>ran ſome one way, and ſome another, they were ſenſible (by the teſtimony of con<g ref="char:EOLhyphen"/>ſcience) that their obſtract perſiſting in rebellion (againſt ſo rare a King) had brought them beyond hope of pardon therefore they asked none: in this deſtra<g ref="char:EOLhyphen"/>ction there was a greater number killed in the fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t then in the battell ſcarce a man of them had eſcaped, if the ſudden approach of good King <hi>Arthurs</hi> death had not pretented further purſuit; there was ſlain in the battell twelve thouſand, and in the ſlight fifteen thouſand: <hi>Mordreds</hi> hatefull deeds in his life time, procured him a generall hatred after death he dyed ſuddenly without any care for his ſoul, thruſt thorrow the heare with a Iavelin (in the hand of a Common ſouldier) and when he was dead none tooke care of his Body; his own kindred (a fit guerdon for a Traytor) which were of the blood royall (and was he being nephew to King <hi>Arthur</hi> (as you have heard before) the gallant Sir <hi>Gowin</hi> Knight of the Round Table, who dyed bravely fighting (for his <hi>King</hi>) in this battell, was his own bro<g ref="char:EOLhyphen"/>ther, he was coſen garman to that illuſtrate <hi>Cador</hi> Duke of <hi>Cornwall</hi> (another) Knight of the Round Table who alſo triumphed over death in his Soveraignes cauſe) whoſe Son <hi>(Conſtantine)</hi> ſucceeded King <hi>Arthur</hi> in the Kingdome yet all this high birth and alience could not purchaſe a grave unleſs ſome Country hynde buried him in his (Orchard or Garden) for of his ſepulcher (though ſo great a perſonage) no mention was ever made to this day: Well, enough of him (unleſs he had been better) now let us returne to <hi>K. Arthur,</hi> who lying upon his death-Bed (at <hi>Glaſenbury</hi>) where having (like a worthy Chriſtian as he alwayes had lived) made an eternall peace between God and his foul and alſo a likely laſting peace (for the future) to his Kingdome, appointing for his ſucceſſor (dying without a<g ref="char:EOLhyphen"/>ny iſſue) his Nephew <hi>Conſtantine</hi> the Son of <hi>Cador</hi> Duke of <hi>Cornwall,</hi> as I told you lately. So this renowned Chriſtian worthy (valiant King <hi>Arthur</hi>) ha<g ref="char:EOLhyphen"/>ving firſt vanquiſhed the Saxons at home, and anexed ſix forraign Crownes to the Monarchy of <hi>Britain:</hi> when he had thus victoriouſly raigned <hi>26.</hi> years he ren<g ref="char:EOLhyphen"/>dred to death his intereſt, and his ſoule to his Redeemer in the year of Grace, <hi>543.</hi> and was buryed at <hi>Glaſenbury,</hi> they where in this preſent modern age (I meane within living mens memory) there hath been an old Epitaph, with ſome other me<g ref="char:EOLhyphen"/>morials of him, found the Epitaph (ſo well as I can) I think it not impertinent to render in Engliſh.</p>
+               <q>
+                  <lg>
+                     <head>
+                        <hi>King</hi> Arthurs <hi>Epitaph.</hi>
+                     </head>
+                     <l>
+                        <hi>Here lyes great <hi>Arthur</hi> Britains King,</hi>
+                     </l>
+                     <l>
+                        <hi>'Mongſt Chriſtian worthies one of three;</hi>
+                     </l>
+                     <l>
+                        <hi>His fame throughout the world doth ring,</hi>
+                     </l>
+                     <l>
+                        <hi>None did ſuch doughty deeds as he.</hi>
+                     </l>
+                     <l>
+                        <hi>Death all unto this paſſe doth bring<g ref="char:punc">▪</g>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>He can ſubdue the greateſt King.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> printed for <hi>Francis Coles</hi> at the ſigne of the Lamb in the Old-Bailey, 1660.</p>
+            <pb facs="tcp:180645:15"/>
+            <pb n="20" facs="tcp:180645:16"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:180645:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
